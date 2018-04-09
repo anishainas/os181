@@ -11,3 +11,5 @@ ZCZC W03 sudah melakukan demo
 ZCZC WO4 sudah melakukan demo
 
 ZCZC W05 sudah melakukan demo
+
+ZCZC W06 sudah melakukan demo
